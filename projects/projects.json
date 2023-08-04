@@ -1,0 +1,49 @@
+[ 
+    
+    
+    {
+        "id": 1,
+        "name": "E-Mail Classification ML Model",
+        "desc": "Classify emails as spam or not-spam on the basis of the message.[Naive Bayes, Numpy, Pandas and Sklearn].",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933127/mlpr_c2stn8.jpg",
+        "links": {
+            "view": "https://github.com/linux987598/Email-Classification-Model/blob/main/Model/email_classification.ipynb",
+            "code": "https://github.com/linux987598/Email-Classification-Model"
+        }
+    },
+    {
+        "id": 2,
+        "name": "COVID-19 Outbreak Analysis",
+        "desc": "We all know that coronavirus is spreading on a daily basis in India. So, let's try to visualise how fast it is spreading.",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933140/covidml_pdaxpu.png",
+        "links": {
+            "view": "https://github.com/linux987598/COVID-19-Outbreak-Analysis-Using-Data-Science-main/blob/main/COVID-19%20Outbreak%20Analysis%20.ipynb",
+            "code": "https://github.com/linux987598/COVID-19-Outbreak-Analysis-Using-Data-Science-main"
+        }
+    },
+    {
+        "id": 3,
+        "name": "TITANIC-SURVIVOUR-ANALYSIS",
+        "desc": "In this project we are going to build an artificial intelligence neural network to check whether they survived the titanic incident or not",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933129/Titanic_nuxdgz.png",
+        "links": {
+            "view": "https://github.com/linux987598/TITANIC-SURVIVOUR-ANALYSIS/blob/main/Titanic_Survivors_Analysis_By_Harsha_.ipynb",
+            "code": "https://github.com/linux987598/TITANIC-SURVIVOUR-ANALYSIS"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Portfolio Website",
+        "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+        "image": "https://res.cloudinary.com/dwn1vouq0/image/upload/v1690957681/Harsha/helvndy27hksqgmbohcc.png",
+        "links": {
+            "view": "https://linux987598.github.io/Portfolio-Harsha-Vardhan"/",
+            "code": "https://github.com/linux987598/Portfolio-Harsha-Vardhan"
+        }
+    },
+    
+  
+
+    
+    
+]
